@@ -1,5 +1,6 @@
-
-  ### Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer living in the UK.
+<h4 align="center">
+  Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer living in the UK.
+</h4>
 
 `Where my energy is now :)`
 - 🎉 I’m currently expanding my object-oriented programming skills through active learning and side projects.
