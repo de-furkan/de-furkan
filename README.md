@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img width=”50" height=”50" src="https://github.com/de-furkan/de-furkan/assets/85889728/c29b265b-2808-4912-920d-aa86e10a158c" alt="my banner">
+</p>
 
-<!--
-**de-furkan/de-furkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer living in the UK.
+</h3>
 
-Here are some ideas to get you started:
+`Where my energy is now :)`
+- 🎉 I’m currently expanding my object-oriented programming skills through active learning and side projects.
+- 🔭 And this is my most recent project (still working on it) 👉🏻 [project3_atm](https://github.com/de-furkan/project3_atm)
+- 🚀 I'm also on a mission to take my Selenium, TestNG, API, database testing, and Cucumber skills up a notch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`You can also find links to some of my completed projects here:`
+
+- [AlloverCommerce Selenium / TestNG Project](https://github.com/de-furkan/TestNG-Project)
+- [ManagementOnSchools Cucumber UI / API / Database Project](https://github.com/de-furkan/CucumberProject_SchoolManagement)
