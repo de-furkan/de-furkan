@@ -1,8 +1,3 @@
-<p align="center">
-  <img width=”50" height=”50" src="https://github.com/de-furkan/de-furkan/assets/85889728/f49f5a8f-144d-4aa0-9126-269e29b49e11" alt="my banner">
-</p>
-
-
 <h3 align="center">
   Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer living in the UK.
 </h3>
