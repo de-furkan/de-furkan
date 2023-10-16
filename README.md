@@ -4,7 +4,7 @@
 
 `Where my energy is now :)`
 - 🎉 I’m currently expanding my object-oriented programming skills through active learning and side projects.
-- 🔭 And this is my most recent project (still working on it) 👉🏻 [project3_atm](https://github.com/de-furkan/project3_atm)
+- 🔭 And this is my most recent project (still working on it) 👉🏻 You can stay updated here once the project is released.
 - 🚀 I'm also on a mission to take my Selenium, TestNG, API, database testing, and Cucumber skills up a notch.
 
 `You can also find links to some of my completed projects here:`
