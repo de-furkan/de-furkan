@@ -31,7 +31,7 @@ At present, my focus is on deepening my understanding of Java and enhancing my s
 <h2>Where my energy is now 🥳</h2>
 
 - 🎉 I’m currently expanding my object-oriented programming skills through active learning and side projects.
-- 🔭 And this is my most recent project (still working on it) 👉🏻 ![atmProject_3](https://github.com/de-furkan/atmProject_3)
+- 🔭 And this is my most recent completed project 👉🏻 ![atmProject_3](https://github.com/de-furkan/atmProject_3)
 - 🚀 I'm also on a mission to take my Selenium, TestNG, API, database testing, and Cucumber skills up a notch.
 
 `You can also find links to some of my other projects here`
