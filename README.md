@@ -61,3 +61,6 @@ This project pushed me to expand my skills and understanding in these areas, mak
 <img width="379" alt="image" src="https://github.com/de-furkan/de-furkan/assets/85889728/db3151d7-25c8-4419-a0cc-4cc52994230e">
 <img width="522" alt="image" src="https://github.com/de-furkan/de-furkan/assets/85889728/6725555b-62c3-489f-8933-56c630177542">
 
+<h2>GitHub Activities</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-furkan&show_icons=true&theme=radical)
