@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <p>
-  With a solid foundation in both manual and automated testing, I bring to the table a good understanding of programming languages, particularly Java and SQL. Although I am still expanding my knowledge of Java, I am committed to continuous learning and development.
+  With a solid foundation in both manual and automated testing, I bring to the table a good understanding of programming/testing languages and frameworks, particularly Selenium / TestNG / Cucumber / Manual Testing along with core Java and SQL. Although I am still expanding my knowledge of Java, I am committed to continuous learning and development.
 
 At present, my focus is on deepening my understanding of Java and enhancing my skills in QA Testing. I am actively exploring tech stacks such as Cucumber, Selenium, TestNG, Appium, Cypress, and RestAssured. My journey in the realm of programming and testing is always evolving, and I am excited about the learning opportunities ahead.
 
