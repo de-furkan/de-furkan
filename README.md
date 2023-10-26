@@ -36,8 +36,7 @@ At present, my focus is on deepening my understanding of Java and enhancing my s
 
 `You can also find links to some of my other projects here`
 
-- [AlloverCommerce Selenium / TestNG Project](https://github.com/de-furkan/TestNG-Project)
-- [ManagementOnSchools Cucumber UI / API / Database Project](https://github.com/de-furkan/CucumberProject_SchoolManagement)
+- Currently set private
 
 <h2>Featured Projects</h2>
 <p>
