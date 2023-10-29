@@ -63,3 +63,5 @@ This project pushed me to expand my skills and understanding in these areas, mak
 <h2>GitHub Activities</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-furkan&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=de-furkan&color=dc143c)
