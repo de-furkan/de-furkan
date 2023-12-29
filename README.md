@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer Student living in the UK.
+  Hey there👋🏻, I'm Furkan! I'm a Software QA Engineer living in the UK.
 </h1>
 
 <h2>About Me</h2>
