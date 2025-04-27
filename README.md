@@ -1,6 +1,11 @@
 <h1 align="center">
-  👋 Hi, I'm Furkan | Software QA Engineer & Java Developer
+  
+![groundhog (2)](https://github.com/user-attachments/assets/70c5f12a-da08-4ec0-a798-3fc08930baea) I'm Furkan.
 </h1>
+
+<p align="center">
+  <em>A Software Quality Architect/Java Developer. Building testable systems, one line of Java at a time</em>
+</p>
 
 <p align="center">
   <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">Currently Unavailable</a>
@@ -15,7 +20,7 @@
  ▸ [Development Skills](#development-stack)  
  ▸ [Methodologies](#sdlc--methodologies)  
 **👉 [Core Skills](#-core-competencies)**  
-**👉 [About Me](#-code-quality-advocate)**  
+**👉 [More About Me](#-code-quality-advocate)**  
 **👉 [Featured Projects](#-featured-projects---java--testing)**  
  ▸ [Java Testing Projects](#automated-testing-framework--rest-api)  
  ▸ [Front-End Showcase](#front-end-projects---development)  
