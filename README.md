@@ -82,8 +82,6 @@ I'm a Java developer who tests, and a tester who codes - passionate about buildi
 
 ## 📂 Featured Projects - Java & Testing
 
-
-
 ### **Automated Testing Framework & REST API** | [🔗LINK](https://github.com/de-furkan/CucumberProject_SchoolManagement)
 Java | Selenium | TestNG | Cucumber | Gherkin | BDD | TDD
 
@@ -136,11 +134,11 @@ HTML | CSS | SCSS | JavaScript | API (FETCH)
 
 ---
 
-## My Current Obsessions:
+## My Current Obsessions
 ✅ Sharpening core Java fundamentals through coding challenges  
 ✅ Exploring testing visualisation tools (my console project - glyphout.core)  
 ✅ Building practical APIs like my GitHub user search application  
-✅ Experimenting with test automation patterns for web apps  
+✅ Experimenting with test automation patterns
 ✅ Deep-diving into PostgreSQL operations for better test data management  
 ✅ Creating documentation that makes complex tests understandable to all  
 ✅ Pair-programming concepts to bridge dev/test communication gaps 
@@ -148,7 +146,7 @@ HTML | CSS | SCSS | JavaScript | API (FETCH)
 ✅ Designing automation frameworks developers actually respect  
 ✅ Proving manual testing skills and automation chops aren't mutually exclusive
 
-## What Excites Me Most:  
+## What Excites Me Most
 🔸 Building projects with various technology stacks, including Java and JavaScript.
 🔸 Turning "I wonder if..." moments into testable hypotheses  
 🔸 Finding simpler solutions to common testing pain points  
