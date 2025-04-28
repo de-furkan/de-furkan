@@ -61,7 +61,7 @@
 
 ## 💡 Core Competencies
 - Test Automation Framework Design & Implementation
-- API Testing (REST/SOAP)
+- API Testing (REST)
 - Functional & Regression Testing
 - Test Case Management (Jira/Xray)
 - Performance Testing Basics
@@ -87,7 +87,7 @@ Java | Selenium | TestNG | Cucumber | Gherkin | BDD | TDD
 
 - Designed data-driven + BDD testing framework handling 500+ test cases
 - Integrated with Jira/Xray for test management
-- Achieved 85% test coverage for core functionalities
+- Achieved 85%+ test coverage for core functionalities
   
 ---
 
