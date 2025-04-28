@@ -166,6 +166,9 @@ To me, good development *is* testing - just earlier in the process.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[de-furkan]&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[de-furkan]&theme=dark" />
+  <a href="https://github.com/de-furkan">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=[de-furkan]&theme=dark" /> </br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=de-furkan&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-furkan&layout=compact&theme=dark&hide_border=true" />
 </p>
