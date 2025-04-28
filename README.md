@@ -135,19 +135,20 @@ HTML | CSS | SCSS | JavaScript | API (FETCH)
 ---
 
 ## My Current Obsessions
+
 ✅ Sharpening core Java fundamentals through coding challenges  
 ✅ Exploring testing visualisation tools (my console project - glyphout.core)  
 ✅ Building practical APIs like my GitHub user search application  
-✅ Experimenting with test automation patterns
+✅ Experimenting with test automation patterns </br>
 ✅ Deep-diving into PostgreSQL operations for better test data management  
 ✅ Creating documentation that makes complex tests understandable to all  
-✅ Pair-programming concepts to bridge dev/test communication gaps 
+✅ Pair-programming concepts to bridge dev/test communication gaps </br>
 ✅ Crafting clean Java utilities that make testing easier for everyone  
 ✅ Designing automation frameworks developers actually respect  
 ✅ Proving manual testing skills and automation chops aren't mutually exclusive
 
 ## What Excites Me Most
-🔸 Building projects with various technology stacks, including Java and JavaScript.
+🔸 Building projects with various technology stacks, including Java and JavaScript. </br>
 🔸 Turning "I wonder if..." moments into testable hypotheses  
 🔸 Finding simpler solutions to common testing pain points  
 🔸 That "aha!" moment when tests prevent a sneaky bug  
