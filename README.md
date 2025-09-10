@@ -1,174 +1,62 @@
-<h1 align="center">
+<header>
+  <h1>Hello, I'm Furkan — Java Developer • SDET</h1>
+  <p>Building testable systems, one line of Java at a time.</p>
+  <ul>
+    <li>Links hub: <a href="https://de-furkan.github.io/links" target="_blank" title="See a full list of my featured projects">See a full list of my projects here</a></li>
+    <li>And feel free to connect with me on <a href="https://www.linkedin.com/in/furkan-o" target="_blank" title="Add me on LinkedIn">LinkedIn</a> 🚀</li>
+  </ul>
+</header>
+
+<!-- A shorter introduction to some of my projects -->
+<section id="featured-projects">
+  <h2>Featured Projects</h2>
+
+  <p><strong> See a full list of projects on my <a href="https://de-furkan.github.io/links" target="_blank" title="See a full list of my featured projects">website</a> </strong>✅</p>
+</section>
+
+<!-- A list of tech stack with icons -->
+<section id="tech-snapshot">
+  <h2>Programming</h2>
+  ![Java 17](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00A3A3?style=for-the-badge)
   
-![groundhog (2)](https://github.com/user-attachments/assets/70c5f12a-da08-4ec0-a798-3fc08930baea) I'm Furkan.
-</h1>
+  <h2>Database &amp; Integration</h2>
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 
-<p align="center">
-  <em>A Software Quality Architect/Java Developer. Building testable systems, one line of Java at a time</em>
-</p>
+  <h2>APIs &amp; Docs</h2>
+  ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000)
+  ![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge)
 
-<p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">Currently Unavailable</a>
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">Currently Unavailable</a>
-</p>
-
----
-
-## 🔖 Table of Contents
-**👉 [Tech Stack](#-technical-expertise)**  
- ▸ [Testing Tools](#testing-technologies)  
- ▸ [Development Skills](#development-stack)  
- ▸ [Methodologies](#sdlc--methodologies)  
-**👉 [Core Skills](#-core-competencies)**  
-**👉 [More About Me](#-code-quality-advocate)**  
-**👉 [Featured Projects](#-featured-projects---java--testing)**  
- ▸ [Java Testing Projects](#automated-testing-framework--rest-api)  
- ▸ [Front-End Showcase](#front-end-projects---development)  
-**👉 [Learning Journey](#my-current-obsessions)**  
-**👉 [Passions](#what-excites-me-most)**  
-**👉 [Certifications](#-certifications)**  
-**👉 [GitHub Stats](#-github-stats)**  
-
----
-
-## 🛠 Technical Expertise
-
-### **Testing Technologies**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-009988?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-66CC33?style=for-the-badge&logo=rest&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### **Development Stack**
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### **SDLC & Methodologies**
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrutinizer&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-4479A1?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-00599C?style=for-the-badge)
-
----
-
-## 💡 Core Competencies
-- Test Automation Framework Design & Implementation
-- API Testing (REST)
-- Functional & Regression Testing
-- Test Case Management (Jira/Xray)
-- Performance Testing Basics
-- Database Testing (PostgreSQL)
-- Defect Tracking & Root Cause Analysis
-
----
-
-## 👨💻 Code Quality Advocate
-I'm a Java developer who tests, and a tester who codes - passionate about building software that works *right* from the start. My dual perspective helps me:  
-
-- **Write testable Java code** that's ready for automation from day one  
-- **Build maintainable test frameworks** using core Java + modern tools  
-- **Spot integration risks** through hands-on database (JDBC) and API testing
-- **Front-end knowledge** bringing further experience to the table, with various languages and frameworks i.e. HTML, CSS, SCSS, JavaScript, NPM (just to name a few).
-
----
-
-## 📂 Featured Projects - Java & Testing
-
-### **Automated Testing Framework & REST API** | [🔗LINK](https://github.com/de-furkan/CucumberProject_SchoolManagement)
-Java | Selenium | TestNG | Cucumber | Gherkin | BDD | TDD
-
-- Designed data-driven + BDD testing framework handling 500+ test cases
-- Integrated with Jira/Xray for test management
-- Achieved 85%+ test coverage for core functionalities
+  <h2>Testing</h2>
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![TestNG](https://img.shields.io/badge/TestNG-DB6637?style=for-the-badge)
+  ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![REST Assured](https://img.shields.io/badge/REST%20Assured-0FAE4B?style=for-the-badge)
   
----
-
-## Front-End Projects - Development
-
-HTML | CSS | SCSS | JavaScript | API (FETCH)
-
-### devfinder - search a user on GitHub 
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://de-furkan.github.io/Front-End-Projects/project-6/src/index.html)
-
-<ul>
-  <li>Automatically detects theme preference on operating system</li>
-  <li>Allows manual over-ride of theme</li>
-  <li>Allows user search through GitHub API</li>
-</ul>
-
-![project-6](https://github.com/user-attachments/assets/6b0d0961-4ae8-4aa3-abb6-af8b2fb104d8)
-
----
-
-### Product Preview Card Component
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://de-furkan.github.io/Front-End-Projects/project-1/src/index.html)
-
-<ul>
-  <li>Preview product with price tag</li>
-  <li>UI/UX design and implementation</li>
-  <li>Add to cart functionality</li>
-</ul>
-
-![project-1](https://github.com/user-attachments/assets/be12e239-f318-48eb-af46-3b94db7f5d36)
-
----
-
-### Order Summary Card
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://de-furkan.github.io/Front-End-Projects/project-3/src/index.html)
-
-<ul>
-  <li>Summary of payment plan</li>
-  <li>Dynamically update plan</li>
-  <li>Redirects - for purchases</li>
-</ul>
-
-![project-3](https://github.com/user-attachments/assets/81c10adf-5d47-4644-9221-e4dc886f0d3b)
-
----
-
-## My Current Obsessions
-
-✅ Sharpening core Java fundamentals through coding challenges  
-✅ Exploring testing visualisation tools (my console project - glyphout.core)  
-✅ Building practical APIs like my GitHub user search application  
-✅ Experimenting with test automation patterns </br>
-✅ Deep-diving into PostgreSQL operations for better test data management  
-✅ Creating documentation that makes complex tests understandable to all  
-✅ Pair-programming concepts to bridge dev/test communication gaps </br>
-✅ Crafting clean Java utilities that make testing easier for everyone  
-✅ Designing automation frameworks developers actually respect  
-✅ Proving manual testing skills and automation chops aren't mutually exclusive
-
-## What Excites Me Most
-🔸 Building projects with various technology stacks, including Java and JavaScript. </br>
-🔸 Turning "I wonder if..." moments into testable hypotheses  
-🔸 Finding simpler solutions to common testing pain points  
-🔸 That "aha!" moment when tests prevent a sneaky bug  
-🔸 Growing my toolkit one well-documented experiment at a time
-
-To me, good development *is* testing - just earlier in the process.  
-
----
-
-## 📜 Certifications
-- QTS
-- Full-Stack Automation Engineering (SDET)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/de-furkan">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=[de-furkan]&theme=dark" /> </br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=de-furkan&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=de-furkan&layout=compact&theme=dark&hide_border=true" />
-</p>
+  <h2>Tools</h2>
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Xray](https://img.shields.io/badge/Xray-1C8D73?style=for-the-badge)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+  
+  <h2>Methodologies</h2>
+  ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
+  ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+  ![BDD](https://img.shields.io/badge/BDD-0E8A16?style=for-the-badge)
+  ![TDD](https://img.shields.io/badge/TDD-5B8CFF?style=for-the-badge)
+  
+  <h2>Web</h2>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-006699?style=for-the-badge)
+  ![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge)
+</section>
